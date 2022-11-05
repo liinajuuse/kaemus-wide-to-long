@@ -1,0 +1,109 @@
+ParticipantID,Algus,Lõpp,Sugu,Vanus,Haridus,Töötaatus:Õpin,Tööstaatus:Töötan
+1,2022-09-04 19:15:05,2022-09-04 20:04:43,Mees,32,Magister või sellega võrdsustatud haridus,1,NA
+4,2022-09-16 17:16:46,2022-09-16 21:14:53,Naine,18,Keskharidus,1,NA
+5,2022-09-20 17:26:33,2022-09-20 18:08:50,Mees,27,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",NA,1
+7,2022-09-21 16:10:33,NA,Naine,40,Magister või sellega võrdsustatud haridus,NA,1
+8,2022-09-21 18:38:39,2022-09-21 19:14:02,Naine,43,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",NA,1
+9,2022-09-22 08:38:20,2022-09-22 09:12:11,Mees,38,Magister või sellega võrdsustatud haridus,NA,1
+10,2022-09-23 14:46:44,2022-09-23 16:36:26,Naine,21,NA,1,NA
+11,2022-09-26 23:30:41,2022-10-04 01:59:38,Mees,55,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",NA,1
+13,2022-09-29 08:50:18,2022-09-29 10:14:02,Naine,52,Magister või sellega võrdsustatud haridus,NA,1
+16,2022-10-04 18:25:43,NA,Naine,21,Kutsekeskharidus või kutseharidus,1,NA
+17,2022-10-10 17:38:15,NA,Naine,21,Keskharidus,1,1
+20,2022-10-12 14:33:38,2022-10-12 15:50:29,Naine,45,Kutsekeskharidus või kutseharidus,1,1
+21,2022-10-12 14:35:01,NA,Naine,29,Magister või sellega võrdsustatud haridus,NA,1
+22,2022-10-12 15:20:29,NA,Naine,19,Keskharidus,1,1
+23,2022-10-12 16:14:36,2022-10-12 17:14:18,Naine,29,Magister või sellega võrdsustatud haridus,1,NA
+24,2022-10-12 16:18:55,2022-10-12 16:46:50,Naine,20,Keskharidus,1,NA
+25,2022-10-12 16:46:06,2022-10-12 19:17:31,Naine,29,Doktor või sellega võrdsustatud haridus,1,NA
+28,2022-10-12 19:14:56,2022-10-13 12:22:07,Naine,23,Keskharidus,1,1
+29,2022-10-12 20:23:58,2022-10-12 21:31:00,Naine,33,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",1,1
+30,2022-10-12 20:51:25,2022-10-12 21:22:05,Naine,21,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",1,NA
+31,2022-10-13 02:23:33,NA,Naine,39,Magister või sellega võrdsustatud haridus,NA,1
+32,2022-10-13 02:39:33,2022-10-13 13:27:57,Naine,39,Magister või sellega võrdsustatud haridus,NA,1
+33,2022-10-13 11:39:07,2022-10-13 12:49:57,Muu/ei soovi avaldada,20,Keskharidus,1,NA
+34,2022-10-13 12:26:01,2022-10-13 12:54:33,Naine,19,Keskharidus,1,1
+35,2022-10-13 13:36:17,2022-10-13 14:35:58,Naine,42,Kutsekeskharidus või kutseharidus,1,NA
+36,2022-10-13 17:42:22,2022-10-13 18:34:40,Mees,27,Kutsekeskharidus või kutseharidus,1,1
+37,2022-10-13 18:31:38,2022-10-13 18:53:48,Naine,23,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",1,NA
+38,2022-10-16 20:06:43,2022-10-16 20:41:40,Naine,19,Keskharidus,1,1
+39,2022-10-17 10:51:21,2022-10-17 12:28:24,Mees,20,Keskharidus,1,1
+40,2022-10-17 12:30:09,NA,NA,NA,NA,NA,NA
+43,2022-10-17 14:35:05,2022-10-17 19:14:15,Mees,42,Magister või sellega võrdsustatud haridus,1,1
+44,2022-10-18 11:56:01,2022-10-18 12:20:47,Naine,31,Magister või sellega võrdsustatud haridus,1,NA
+45,2022-10-18 12:52:52,2022-10-18 14:04:45,Naine,23,Keskharidus,1,NA
+46,2022-10-18 13:09:37,2022-10-18 14:06:39,Naine,36,Keskharidus,1,NA
+48,2022-10-20 14:11:32,2022-10-20 15:08:31,Naine,23,Keskharidus,1,NA
+49,2022-10-20 15:56:29,2022-10-20 16:26:19,Naine,19,Keskharidus,1,NA
+50,2022-10-24 13:06:53,2022-10-24 14:05:01,Mees,21,Keskharidus,1,NA
+51,2022-10-24 14:57:57,2022-10-24 15:45:42,Mees,29,Keskharidus,1,1
+52,2022-10-25 12:05:33,2022-10-25 12:56:44,Naine,20,Keskharidus,1,1
+54,2022-10-25 17:19:46,2022-10-25 18:35:51,Mees,77,Muu (palun täpsusta): TÜ lõpetamata,NA,NA
+56,2022-10-25 17:30:55,NA,Naine,22,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",1,1
+58,2022-10-25 17:45:58,NA,Naine,17,Põhiharidus,1,NA
+59,2022-10-25 18:21:55,2022-10-25 18:48:50,Naine,29,Magister või sellega võrdsustatud haridus,NA,1
+60,2022-10-25 18:51:11,NA,Naine,18,Põhiharidus,1,1
+62,2022-10-25 19:12:52,NA,Naine,19,Keskharidus,1,NA
+63,2022-10-25 19:15:33,NA,Naine,19,Keskharidus,1,NA
+64,2022-10-25 19:21:00,NA,Naine,21,Keskharidus,1,NA
+65,2022-10-25 19:33:17,NA,Naine,28,Magister või sellega võrdsustatud haridus,NA,1
+66,2022-10-25 20:07:44,NA,Naine,23,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",1,NA
+67,2022-10-25 20:08:30,NA,Naine,20,Keskharidus,1,NA
+68,2022-10-25 20:09:15,2022-10-25 20:56:51,Naine,21,Keskharidus,1,NA
+72,2022-10-25 22:08:29,2022-10-25 22:41:12,Mees,48,Magister või sellega võrdsustatud haridus,NA,1
+73,2022-10-25 22:43:31,NA,Naine,18,Põhiharidus,1,1
+75,2022-10-25 22:45:21,2022-10-25 23:05:39,Naine,20,Keskharidus,1,NA
+78,2022-10-26 01:27:55,NA,Naine,18,Põhiharidus,1,NA
+80,2022-10-26 08:12:25,2022-10-26 09:42:10,Naine,49,Magister või sellega võrdsustatud haridus,NA,1
+81,2022-10-26 10:35:44,2022-10-26 11:28:25,Mees,48,Magister või sellega võrdsustatud haridus,NA,1
+85,2022-10-26 16:37:58,NA,Naine,43,Magister või sellega võrdsustatud haridus,NA,1
+86,2022-10-26 20:03:37,2022-10-26 20:35:02,Naine,23,"Bakalaureus, rakenduskõrgharidus või sellega võrdsustatud haridus",NA,1
+87,2022-10-26 22:43:08,2022-10-26 23:43:26,Naine,22,Keskharidus,1,NA
+88,2022-10-26 22:57:04,NA,Naine,20,Kutsekeskharidus või kutseharidus,1,NA
+92,2022-10-27 16:06:20,2022-10-27 16:39:17,Mees,21,Keskharidus,1,1
+93,2022-10-27 17:01:12,NA,Naine,39,Magister või sellega võrdsustatud haridus,1,1
+94,2022-10-28 15:50:21,2022-10-28 16:27:37,Naine,21,Keskharidus,1,NA
+96,2022-10-30 14:52:30,2022-10-30 15:36:04,Naine,20,Keskharidus,1,NA
+97,2022-10-30 15:14:11,2022-10-30 16:43:50,Naine,73,Magister või sellega võrdsustatud haridus,NA,NA
+98,2022-11-01 09:10:29,2022-11-01 10:08:30,Naine,32,Magister või sellega võrdsustatud haridus,NA,NA
+99,2022-11-01 11:24:03,NA,Mees,34,Keskharidus,NA,1
+100,2022-11-01 11:34:54,NA,Naine,31,Magister või sellega võrdsustatud haridus,1,1
+101,2022-11-01 11:38:34,NA,Naine,21,Kutsekeskharidus või kutseharidus,1,NA
+102,2022-11-01 11:59:14,NA,Naine,20,Keskharidus,1,NA
+103,2022-11-01 12:05:32,NA,Mees,77,Muu (palun täpsusta): TÜ filosoofia,NA,NA
+104,2022-11-01 12:29:40,NA,Naine,18,Põhiharidus,1,NA
+105,2022-11-01 12:39:57,NA,Naine,19,Keskharidus,1,NA
+106,2022-11-01 12:43:17,NA,Naine,19,Keskharidus,1,NA
+107,2022-11-01 13:03:23,NA,Naine,18,Põhiharidus,1,1
+108,2022-11-01 13:06:40,NA,NA,NA,NA,NA,NA
+109,2022-11-01 13:08:57,NA,Naine,19,Keskharidus,1,NA
+110,2022-11-01 13:51:49,2022-11-01 14:31:37,Naine,31,Magister või sellega võrdsustatud haridus,NA,NA
+111,2022-11-01 13:59:28,2022-11-01 15:19:52,Naine,29,Kutsekeskharidus või kutseharidus,NA,1
+112,2022-11-01 15:19:06,NA,Naine,20,Keskharidus,1,NA
+113,2022-11-01 15:55:09,NA,Naine,17,Põhiharidus,1,NA
+114,2022-11-01 17:06:58,2022-11-01 17:59:26,Naine,21,Keskharidus,1,NA
+115,2022-11-01 17:46:21,NA,Naine,22,Keskharidus,1,NA
+116,2022-11-01 18:01:46,2022-11-01 18:51:04,Naine,27,Magister või sellega võrdsustatud haridus,1,NA
+117,2022-11-01 18:24:54,NA,Naine,18,Põhiharidus,1,NA
+118,2022-11-02 11:37:00,NA,Mees,22,Keskharidus,NA,1
+119,2022-11-02 17:12:48,NA,Naine,19,Keskharidus,1,NA
+120,2022-11-02 17:33:12,NA,NA,NA,NA,NA,NA
+121,2022-11-02 17:47:59,2022-11-02 22:50:27,Mees,21,Keskharidus,1,NA
+122,2022-11-02 18:09:46,NA,Naine,23,Keskharidus,1,NA
+123,2022-11-02 18:27:32,2022-11-02 18:56:02,Naine,21,Keskharidus,1,1
+124,2022-11-02 18:27:45,NA,Naine,23,Keskharidus,1,NA
+125,2022-11-02 18:38:00,2022-11-02 19:22:05,Mees,21,Keskharidus,1,NA
+126,2022-11-02 18:50:03,NA,Naine,25,Magister või sellega võrdsustatud haridus,1,NA
+127,2022-11-02 19:01:13,NA,NA,NA,NA,NA,NA
+128,2022-11-02 21:30:57,NA,Naine,63,Magister või sellega võrdsustatud haridus,NA,1
+129,2022-11-03 09:11:10,NA,Naine,42,Magister või sellega võrdsustatud haridus,NA,1
+130,2022-11-03 15:24:41,NA,Naine,23,Keskharidus,1,NA
+131,2022-11-03 15:27:19,2022-11-03 15:56:40,Naine,23,Keskharidus,1,NA
+132,2022-11-03 15:37:13,NA,Mees,20,Kutsekeskharidus või kutseharidus,NA,1
+133,2022-11-03 22:08:17,NA,Naine,29,Magister või sellega võrdsustatud haridus,NA,NA
+134,2022-11-04 09:37:24,2022-11-04 10:44:54,Mees,53,Kutsekeskharidus või kutseharidus,NA,1
+135,2022-11-04 13:58:52,NA,Naine,43,Magister või sellega võrdsustatud haridus,NA,1
+136,2022-11-04 14:02:22,NA,Naine,20,Keskharidus,1,NA
+137,2022-11-04 14:21:49,NA,Naine,28,Magister või sellega võrdsustatud haridus,NA,1
+138,2022-11-04 16:37:28,2022-11-04 17:15:55,Naine,39,Magister või sellega võrdsustatud haridus,NA,NA
+139,2022-11-04 19:12:02,NA,Naine,23,Keskharidus,1,NA
