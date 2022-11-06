@@ -8,7 +8,7 @@ library(readr)
 # here("some/path/below/your/project/root.txt")
 
 
-df <- read_delim("C:/Users/liina/OneDrive/PhD/EMO2021/EMO2021/22-04 Kaemus data wide to long/data/EMO2021-1 - EMO2021 valideerimisuuring - 1.csv", 
+EMO2021_1_EMO2021_valideerimisuuring_1 <- read_delim("C:/Users/liina/OneDrive/PhD/EMO2021/EMO2021/22-04 Kaemus data wide to long/data/EMO2021-1 - EMO2021 valideerimisuuring - 1.csv", 
                                                                       delim = ";", escape_double = FALSE, col_names = FALSE, 
                                                                       trim_ws = TRUE)
 

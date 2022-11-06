@@ -69,10 +69,7 @@ t = t %>%
 
 t = t %>% drop_na(Emotsioon)
 
-te = t[c(1:5, 67:71), ]
-te %>% pivot_wider(names_from = EmotionID,
-                   values_from = Emotsioon)
-
+# Vastikuse subgrupp
 vas = t %>% 
   filter(EmotionID == 'Vastikus')
 
